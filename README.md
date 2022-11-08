@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Currently studying Aplied Robotics at NMBU</h3>
+<h3 align="center">Student at the University of Life Sciences</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
