@@ -3,6 +3,9 @@
 <h3 align="center">Student at the University of Life Sciences</h3>
 </p>
 
+<h3 align="left">Currently learning and wokring on github and on my repositories</h3>
+
+
 <br /><br /><br />
 
 
