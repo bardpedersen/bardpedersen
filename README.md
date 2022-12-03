@@ -6,13 +6,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bardpedersen&count_private=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&count_private=true&layout=compact&them" />
 </a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardpedersen&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&count_private=true&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&count_private=true&layout=compact&theme=transparent" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
