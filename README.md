@@ -3,7 +3,7 @@
 <h3 align="center">Student at the University of Life Sciences</h3>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardpedersen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardpedersen&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
