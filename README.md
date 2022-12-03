@@ -13,11 +13,10 @@
 
 <br />
 
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bardpedersen&count_private=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bardpedersen&include_all_commits=true%count_private=true&theme=transparent"
+       alt="Bård's github stats"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&count_private=true&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&count_private=true&layout=compact&theme=transparent&hide_border=true" />
 </a>
