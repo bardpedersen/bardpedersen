@@ -3,9 +3,9 @@
 <h3 align="center">Student at the University of Life Sciences</h3>
 </p>
 
-<h3 align="left"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardpedersen&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)<h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardpedersen&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
