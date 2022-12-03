@@ -3,6 +3,9 @@
 <h3 align="center">Student at the University of Life Sciences</h3>
 </p>
 
+<br /><br /><br />
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bardpedersen&count_private=true&theme=transparent" />
 </a>
