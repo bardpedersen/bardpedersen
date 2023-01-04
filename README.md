@@ -3,8 +3,6 @@
 <h3 align="center">Student at the University of Life Sciences</h3>
 </p>
 
-<a align="left">Currently learning and wokring on github and on my repositories</a>
-
 
 <br /><br /><br />
 
