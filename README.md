@@ -1,9 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=bardpedersen&style=flat-square&color=blue" alt=""/>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="100"/>
-</div>
-
 <h3 align="center">Student at the University of Life Sciences</h3>
 </p>
 
@@ -12,6 +8,10 @@ Hi!
 I am currently in my third year of a master's degree in robotics.
 I use github mostly for fun and as a cloud service for my code in coursed. 
 <br /><br /><br />
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="300"/>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
