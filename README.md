@@ -7,7 +7,8 @@
 <h3 align="center">Student at the University of Life Sciences</h3>
 </p>
 
-Hi
+Hi!
+
 I am currently in my third year of a master's degree in robotics.
 I use github mostly for fun and as a cloud service for my code in coursed. 
 <br /><br /><br />
