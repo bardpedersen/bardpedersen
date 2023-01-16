@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=bardpedersene&style=flat-square&color=blue" alt=""/>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="700" height="300" />
