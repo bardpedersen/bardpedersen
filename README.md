@@ -6,6 +6,9 @@
 
 <br /><br /><br />
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SwBmPrYPFCjhusoNJg/giphy.gif" width="100"/>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
