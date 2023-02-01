@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=bardpedersen&style=flat-square&color=blue" alt=""/>
-
 <h3 align="center">Student at the University of Life Sciences</h3>
 </p>
 
