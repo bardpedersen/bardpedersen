@@ -22,5 +22,5 @@ I use github mostly for fun and as a cloud service for my code in coursed.
 
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bardpedersen&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&include_all_commits=true&count_private=true&layout=compact&theme=transparent&hide_border=true&hide=jupyter_notebook&langs_count=8" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bardpedersen&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&include_all_commits=true&count_private=true&layout=compact&theme=transparent&hide_border=true&hide=jupyter notebook&langs_count=8" /></a> |
 | ------------- | ------------- |
