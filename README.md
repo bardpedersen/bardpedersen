@@ -9,7 +9,7 @@ I use github mostly for fun and as a cloud service for my code in coursed.
 <br /><br /><br />
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/xlydCKGNv9kAAAAC/funny-meme.gif" width="300"/>
+  <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="300"/>
 </div>
 
 
