@@ -28,7 +28,7 @@ I use github mostly for fun and as a cloud service for my code in coursed.
   
 <h4 align="left">Learning:</h4>
 
-<p <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="rust" width="40" height="40"/> </a> </p>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="rust" width="40" height="40"/> </a>
 
 <br />
 
