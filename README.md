@@ -6,8 +6,7 @@ Hi!
 I am currently in my third year of a master's degree in robotics.
 I use github mostly for fun and as a cloud service for my code in coursed. 
 
-<br /><br /><br />
-
+<br /><br />
 <div id="header" align="center">
   <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="300"/>
 </div>
@@ -29,7 +28,7 @@ I use github mostly for fun and as a cloud service for my code in coursed.
   
 <h4 align="left">Learning:</h4>
 
-<p <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </a> </p>
+<p <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="rust" width="40" height="40"/> </a> </p>
 
 <br />
 
