@@ -39,13 +39,13 @@ I use GitHub primarily for fun and as a cloud service for my code used in course
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img align="left" alt="Christine's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chrissisak&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&show=reviews,discussions_answered&rank_icon=percentile&role=owner,collaborator&theme=default#gh-light-mode-only" />
+<img align="left" alt="Christine's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bardpedersen&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&show=reviews,discussions_answered&rank_icon=percentile&role=owner,collaborator&theme=default#gh-light-mode-only" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img align="left" alt="Christine's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chrissisak&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&show=reviews,discussions_answered&rank_icon=percentile&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only"" />
+<img align="left" alt="Christine's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bardpedersen&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&show=reviews,discussions_answered&rank_icon=percentile&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only"" />
 </a>
 </div>
