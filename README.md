@@ -30,5 +30,5 @@ I use GitHub primarily for fun and as a cloud service for my code used in course
 
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bardpedersen&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&include_all_commits=true&count_private=true&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook&langs_count=8" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bardpedersen&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardpedersen&include_all_commits=true&count_private=true&layout=compact&theme=transparent&hide_border=true&exclude_repo=TEL310&hide=jupyter%20notebook&langs_count=8" /></a> |
 | ------------- | ------------- |
