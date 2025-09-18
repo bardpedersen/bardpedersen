@@ -1,11 +1,3 @@
-<h3 align="center">Student at the University of Life Sciences</h3>
-</p>
-
-Hi!
-
-I am in my fourth year of a master's degree in robotics.
-I use GitHub primarily for fun and as a cloud service for my code used in courses. 
-
 <br /><br />
 <div id="header" align="center">
   <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="300"/>
